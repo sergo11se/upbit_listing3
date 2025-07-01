@@ -1,2 +1,4 @@
+aiohttp==3.9.5
 aiogram==2.25.1
 apscheduler==3.10.4
+websockets==12.0
