@@ -5,8 +5,8 @@ from aiogram.utils import executor
 from apscheduler.schedulers.asyncio import AsyncIOScheduler
 from datetime import datetime
 
-API_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
-CHAT_ID = "YOUR_CHAT_ID"
+API_TOKEN = "7683066723:AAHot2507_9RrkpNCMh5QKLi0cQr7cPEVH8"
+CHAT_ID = "5305138065"
 
 logging.basicConfig(level=logging.INFO)
 bot = Bot(token=API_TOKEN)
